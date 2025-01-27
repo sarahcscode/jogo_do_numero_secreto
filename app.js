@@ -1,7 +1,7 @@
 let tentativas = 0;
 TextosIniciais();
 let ListaDeNumeros = [];
-let LimiteElemt = 20;
+let LimiteElemt = 10;
 let NumeroSecreto = Sorteio();
 document.getElementById('reiniciar').removeAttribute('disabled');
 
